@@ -1,0 +1,43 @@
+Basic Questions
+What is a database?
+What is a DBMS (Database Management System)?
+Explain the difference between SQL and NoSQL databases.
+What are the different types of SQL commands?
+DDL (Data Definition Language)
+DML (Data Manipulation Language)
+DCL (Data Control Language)
+TCL (Transaction Control Language)
+What is a primary key?
+What is a foreign key?
+What is normalization? Explain different normal forms.
+What is denormalization?
+Explain the ACID properties in a database.
+What is a JOIN? Explain different types of JOINs.
+Intermediate Questions
+What is indexing? Why is it used?
+What is a view in SQL?
+Explain the concept of transactions in a database.
+What is a stored procedure?
+What is a trigger in SQL?
+What are the differences between DELETE, TRUNCATE, and DROP commands?
+Explain the concept of a clustered index vs a non-clustered index.
+What is a subquery? Explain the difference between a correlated and a non-correlated subquery.
+What are aggregate functions? Give examples.
+What is a composite key?
+Advanced Questions
+What is database sharding?
+Explain the CAP theorem.
+What is a materialized view?
+Explain the concept of database replication.
+What are the differences between OLTP and OLAP?
+What is a CTE (Common Table Expression)?
+How would you optimize a slow-running query?
+Explain the difference between vertical and horizontal scaling in databases.
+What is the difference between a B-Tree and a B+ Tree?
+How do you handle database migrations?
+Scenario-Based Questions
+Given a table with millions of rows, how would you efficiently retrieve records that match certain criteria?
+How would you design a database for a social media application like Twitter?
+Describe a situation where you had to optimize a database query. What steps did you take?
+How would you implement a solution to prevent SQL injection attacks?
+How would you handle a situation where multiple users are trying to update the same record in a database concurrently?
